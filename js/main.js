@@ -113,6 +113,16 @@ let swiper = new Swiper(".mySwiper", {
 
 /*==================== TESTIMONIAL ====================*/
 
+var swiperTestimonial = new Swiper(".mySwiperTestimonial", {
+  loop: true,
+  grabCursor: true,
+  spaceBetween: 48,
+  pagination: {
+    el: ".swiper-pagination-testimonial",
+    dynamicBullets: true,
+  },
+});
+
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
 /*==================== CHANGE BACKGROUND HEADER ====================*/
