@@ -522,7 +522,7 @@ img {
 }
 
 .skills-js {
-  width: 60%;
+  width: 70%;
 }
 
 .skills-angular {
@@ -538,11 +538,23 @@ img {
 }
 
 .skills-node {
-  width: 20%;
+  width: 30%;
 }
 
 .skills-python {
-  width: 50%;
+  width: 30%;
+}
+
+.skills-sql-server {
+  width: 70%;
+}
+
+.skills-oracle {
+  width: 60%;
+}
+
+.skills-firebase {
+  width: 40%;
 }
 
 .skills-close .skills-list {
